@@ -1,0 +1,27 @@
+{
+  "Must be 3 characters or more": "Must be 3 characters or more",
+  "home": {
+    "title": "home.title",
+    "Select your Language": "home.Select your Language"
+  },
+  "common": {
+    "continue": "common.continue",
+    "OR PRESS ENTER": "common.OR PRESS ENTER"
+  },
+  "Dashboard": {
+    "CANCEL AND GO BAC": "Dashboard.CANCEL AND GO BAC",
+    "OK, Got it!": "Dashboard.OK, Got it!"
+  },
+  "communication": {
+    "Daemon is not running": "communication.Daemon is not running",
+    "Connecting to Node": "communication.Connecting to Node"
+  },
+  "eula": {
+    "title": "eula.title",
+    "body": "eula.body",
+    "confirmText": "eula.confirmText"
+  },
+  "walletKey": {
+    "Paste the private key in here, without the leading 0x": "walletKey.Paste the private key in here, without the leading 0x"
+  }
+}
