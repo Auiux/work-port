@@ -1,0 +1,41 @@
+{
+  "common": {
+    "continue": "계속",
+    "Or Press Enter": "엔터건을 누르세요"
+  },
+  "home": {
+    "title": "<strong>탈 중앙화 된</strong> 웹. <strong>당신</strong>에 의하여 구동.",
+    "Select your Language": "언어를 선택하세요",
+    "I already have a config file to use": "나는 이미 그 화일을 가지고 있다."
+  },
+  "onboarding": {
+    "The Uncensorable Web. Powered by You.": "무수정 웹. 당신에 의해 구동.",
+    "description_one": "Masq는 분산화 및 Web 3.0 기술을 사용하여 검열이 없는 깨끗한 인터넷에 대한 액세스를 <br />전 세계 사람들에게 제공하는 커뮤니티 중심 네트워크입니다.",
+    "How does MASQ benefit me": "How does MASQ benefit me?",
+    "The most secure": "The most secure & clandestine dVPN. It’s not possible to see you are using MASQ.",
+    "Earn cryptocurrency": "Earn cryptocurrency for sharing your internet bandwidth.",
+    "Give those": "Give those in restricted countries more information freedom.",
+    "Access content": "Access content not available in your country.",
+    "How MASQ Works": "How MASQ Works",
+    "When you run MASQ": "When you run MASQ, you’re running a node in the network – a touchpoint for other<br /> users to conceal their internet traffic and access content from all over the world.",
+    "Automatically": "Automatically, you keep each other accountable for what is owed and spent on the<br /> network.",
+    "Spend MASQ": "Spend MASQ tokens to use the network, and earn them by sharing your internet<br /> bandwidth!",
+    "Set up MASQ in 3 easy steps": "Set up MASQ in 3 easy steps",
+    "We’ll go through": "We’ll go through 3 main steps to get you set up on the MASQ network, so you can enjoy the experience of<br /> the world’s least censored internet, and even earn cryptocurrency for sharing your bandwidth.",
+    "WALLET AND PASSWORD SETUP": "WALLET AND PASSWORD SETUP",
+    "CONNECT TO BLOCKCHAIN": "CONNECT TO BLOCKCHAIN FOR<br /> EARNING & SPENDING",
+    "CONNECT TO MASQ": "CONNECT TO MASQ MESH NETWORK TO<br /> START CONSUMING & SERVING DATA"
+  },
+  "pwdSetup": {
+    "title": "Set your MASQ <strong>App Password.</strong>",
+    "description": "Set a MASQ password so you can lock and unlock the App, and change settings. This is saved locally.",
+    "TYPE PASSWORD": "TYPE PASSWORD",
+    "Password Strength": "Password Strength",
+    "RE-ENTER PASSWORD": "RE-ENTER PASSWORD",
+    "CONFIRM & SET PASSWORD": "CONFIRM & SET PASSWORD",
+    "None": "None",
+    "Weak": "Weak",
+    "Medium": "Medium",
+    "Excellent": "Excellent"
+  }
+}
